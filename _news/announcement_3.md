@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-07-07 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The **"Koala Benchmarks"** paper has won a [Best Paper Award](https://www.usenix.org/conference/atc25/presentation/lamprou) at [USENIX ATC ‘25](https://www.usenix.org/conference/atc25/).
