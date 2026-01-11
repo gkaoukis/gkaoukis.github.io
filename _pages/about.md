@@ -21,7 +21,7 @@ announcements:
 
 Hi! I’m Giorgos, a senior Electrical and Computer Engineering student at the [National Technical University of Athens](https://ntua.gr/).
 
-I am currently completing my studies at NTUA. My thesis focused on shell benchmarking and was supervised by Prof. [Nikos vasilakis](https://nikos.vasilak.is/) and Prof. [Georgios Gkoumas](http://www.cslab.ntua.gr/~goumas/).
+I am currently completing my studies at NTUA. My thesis focused on shell benchmarking and was supervised by Prof. [Nikos Vasilakis](https://nikos.vasilak.is/) and Prof. [Georgios Gkoumas](http://www.cslab.ntua.gr/~goumas/).
 
 Right now, I am also working as a Machine Learning Research Intern at [Archimedes RU](https://archimedesai.gr/en/) under the guidance of [Prof. Evaggelia Pitoura](https://archimedesai.gr/en/researchers/evaggelia-pitoura).
 
