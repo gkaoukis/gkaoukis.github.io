@@ -25,6 +25,6 @@ I am currently completing my studies at NTUA. My thesis focused on shell benchma
 
 Right now, I am also working as a Machine Learning Research Intern at [Archimedes RU](https://archimedesai.gr/en/) under the guidance of [Prof. Evaggelia Pitoura](https://archimedesai.gr/en/researchers/evaggelia-pitoura).
 
-I am interested in operating systens, programming languages, and leveraging ML to build high-performance systems.
+I am interested in operating systems, programming languages, and leveraging ML to build high-performance systems.
 
 Beyond the above, I enjoy hiking, finding new music to listen to and reading books.
