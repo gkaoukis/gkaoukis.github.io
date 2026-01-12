@@ -488,7 +488,7 @@ ninja.data = [{
         title: 'Spotify',
         section: 'Socials',
         handler: () => {
-          window.open("https://open.spotify.com/user/Giorgos Kaoukis", "_blank");
+          window.open("https://open.spotify.com/user/c0z5cfaqdztpqguuafc2jn3rc", "_blank");
         },
       },{
       id: 'light-theme',
