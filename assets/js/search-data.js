@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-paper-the-koala-benchmarks-for-the-shell-has-been-accepted-at-usenix-atc-25-the-last-one-ever",
-          title: 'Our paper “The Koala Benchmarks for the Shell” has been accepted at USENIX...',
+            },},{id: "news-our-paper-with-the-atlas-group-at-brown-university-the-koala-benchmarks-for-the-shell-has-been-accepted-at-usenix-atc-25-the-last-atc-ever",
+          title: 'Our paper with the ATLAS Group at Brown University,“The Koala Benchmarks for the...',
           description: "",
           section: "News",},{id: "news-i-am-presenting-greenrag-at-the-elis-mis-workshop-in-manchester",
           title: 'I am presenting GreenRag at the ELIS-MIS workshop in Manchester.',
