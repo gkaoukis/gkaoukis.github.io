@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper **"The Koala Benchmarks for the Shell"** has been accepted at [USENIX ATC ‘25](https://www.usenix.org/conference/atc25/), the last one ever.
+Our paper with the [ATLAS Group](https://atlas.cs.brown.edu/) at Brown University,**"The Koala Benchmarks for the Shell"**, has been accepted at [USENIX ATC ‘25](https://www.usenix.org/conference/atc25/) -- the last ATC ever! 🐨
