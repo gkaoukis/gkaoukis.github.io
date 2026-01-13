@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our research on [corporate greenwashing detection](https://arxiv.org/abs/2512.11506) at Archimedes RU is now available as a preprint.
+Our research on [corporate greenwashing detection](https://arxiv.org/abs/2512.11506) at Archimedes is now available as a preprint.

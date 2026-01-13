@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Research Intern @ Archimedes RU
+subtitle: Machine Learning Research Intern @ Archimedes Research Unit - Athena RC
 
 profile:
   align: right
@@ -23,7 +23,7 @@ Hi! I’m Giorgos, a senior Electrical and Computer Engineering student at the [
 
 I am currently completing my studies at NTUA. My thesis focused on shell benchmarking and was supervised by Prof. [Nikos Vasilakis](https://nikos.vasilak.is/) and Prof. [Georgios Gkoumas](http://www.cslab.ntua.gr/~goumas/).
 
-Right now, I am also working as a Machine Learning Research Intern at [Archimedes RU](https://archimedesai.gr/en/) under the guidance of [Prof. Evaggelia Pitoura](https://archimedesai.gr/en/researchers/evaggelia-pitoura).
+Right now, I am also working as a Machine Learning Research Intern at [the Archimedes Research Unit](https://archimedesai.gr/en/) under the guidance of [Prof. Evaggelia Pitoura](https://archimedesai.gr/en/researchers/evaggelia-pitoura).
 
 I am interested in operating systems, programming languages, and leveraging ML to build high-performance systems.
 
