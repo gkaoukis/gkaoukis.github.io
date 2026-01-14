@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Machine Learning Research Intern @ Archimedes Research Unit - Athena RC
 
@@ -9,8 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Archimedes Research Unit</p>
+    <p>Athena Research Center</p>
+    <p>1 Artemidos St.</p>
+    <p>15125, Marousi</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
