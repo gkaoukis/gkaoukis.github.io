@@ -4,13 +4,13 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
   },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
@@ -393,8 +393,11 @@ ninja.data = [{
           section: "News",},{id: "news-the-koala-benchmarks-paper-has-won-a-best-paper-award-at-usenix-atc-25",
           title: 'The “Koala Benchmarks” paper has won a Best Paper Award at USENIX ATC...',
           description: "",
-          section: "News",},{id: "news-our-research-on-corporate-greenwashing-detection-at-archimedes-ru-is-now-available-as-a-preprint",
-          title: 'Our research on corporate greenwashing detection at Archimedes RU is now available as...',
+          section: "News",},{id: "news-our-research-on-corporate-greenwashing-detection-at-archimedes-is-now-available-as-a-preprint",
+          title: 'Our research on corporate greenwashing detection at Archimedes is now available as a...',
+          description: "",
+          section: "News",},{id: "news-two-of-our-research-papers-from-the-archimedes-research-unit-on-greenwashing-detection-have-been-accepted-to-the-acm-web-conference-2026-one-in-the-web4good-track-and-one-in-the-beyondfacts-workshop",
+          title: 'Two of our research papers from the Archimedes Research Unit on greenwashing detection...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
