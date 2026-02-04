@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-01-12'
+  last_updated: '2026-02-04'
 papers:
   hyunm5YAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: 'EmeraldMind: A Knowledge Graph-Augmented Framework for Greenwashing Detection'
     year: '2025'
   hyunm5YAAAAJ:u-x6o8ySG0sC:
-    citations: 0
+    citations: 1
     title: 'The Koala Benchmarks for the Shell: Characterization and Implications'
     year: '2025'
