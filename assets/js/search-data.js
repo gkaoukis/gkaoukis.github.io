@@ -480,13 +480,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/giorgos-kaoukis", "_blank");
         },
       },{
-        id: 'social-lastfm',
-        title: 'Last FM',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.last.fm/user/iamgeoka", "_blank");
-        },
-      },{
         id: 'social-spotify',
         title: 'Spotify',
         section: 'Socials',
