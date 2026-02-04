@@ -883,6 +883,57 @@ footer.sticky-bottom {
       div.abstract.hidden.open {
         border-color: var(--global-text-color);
       }
+
+      // BibTeX syntax highlighting - theme-aware colors
+      div.bibtex.hidden {
+        figure.highlight {
+          background-color: var(--global-code-bg-color);
+          border-radius: 6px;
+          margin: 0;
+
+          pre {
+            background-color: transparent;
+            color: var(--global-text-color);
+            margin: 0;
+
+            code {
+              background-color: transparent;
+
+              // BibTeX entry type (@article, @inproceedings, etc.)
+              .nc {
+                color: var(--global-theme-color);
+                font-weight: bold;
+              }
+
+              // Field names (author, title, year, etc.)
+              .na {
+                color: var(--global-text-color);
+              }
+              
+              // String values
+              .s {
+                color: var(--global-theme-color);
+              }
+
+              // Braces and punctuation
+              .p {
+                color: var(--global-text-color-light);
+              }
+
+              // Numbers
+              .m,
+              .mi {
+                color: var(--global-theme-color);
+              }
+
+              // Entry key
+              .nv {
+                color: var(--global-theme-color);
+              }
+            }
+          }
+        }
+      }
     }
     div.award.hidden {
       border: dashed 1px var(--global-bg-color);
