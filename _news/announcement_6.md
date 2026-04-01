@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I graduated with a Diploma from NTUA!
+I graduated with a Diploma from NTUA!🥳
