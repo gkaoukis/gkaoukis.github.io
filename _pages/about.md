@@ -25,7 +25,7 @@ announcements:
 
 Hi! I’m Giorgos, an Electrical and Computer Engineering graduate from the [National Technical University of Athens](https://ntua.gr/).
 
-My thesis focused on shell benchmarking and was supervised by Prof. [Nikos Vasilakis](https://nikos.vasilak.is/) and Prof. [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/).
+My [thesis](http://artemis.cslab.ece.ntua.gr:8080/jspui/handle/123456789/20036) focused on shell benchmarking and was supervised by Prof. [Nikos Vasilakis](https://nikos.vasilak.is/) from Brown University and Prof. [Georgios Goumas](http://www.cslab.ntua.gr/~goumas/) from NTUA.
 
 Right now, I am working as a Machine Learning Research Intern at [the Archimedes Research Unit](https://archimedesai.gr/en/) under the guidance of [Prof. Evaggelia Pitoura](https://archimedesai.gr/en/researchers/evaggelia-pitoura).
 
