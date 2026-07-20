@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-We'll be presenting our research in [HDMS](https://acmsigmod.gr/hdms/2026/index.html) and [Greeks In AI](https://www.greeksin.ai/). Come find us, and let's talk!
+We'll be presenting our research in [HDMS](https://acmsigmod.gr/hdms/2026/index.html) and [Greeks In AI](https://www.greeksin.ai/). Come find us!
