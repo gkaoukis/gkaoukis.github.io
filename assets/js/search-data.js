@@ -411,7 +411,7 @@ ninja.data = [{
           section: "News",},{id: "news-emeraldapp-won-a-best-paper-award-at-beyondfacts-26",
           title: 'EmeraldApp won a Best Paper Award at BeyondFacts ‘26!',
           description: "",
-          section: "News",},{id: "news-we-ll-be-presenting-our-research-in-hdms-and-greeks-in-ai-come-find-us-and-let-s-talk",
+          section: "News",},{id: "news-we-ll-be-presenting-our-research-in-hdms-and-greeks-in-ai-come-find-us",
           title: 'We’ll be presenting our research in HDMS and Greeks In AI. Come find...',
           description: "",
           section: "News",},{id: "projects-project-1",
