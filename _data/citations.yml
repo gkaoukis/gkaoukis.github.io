@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-07'
 papers:
   hyunm5YAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: 'EmeraldApp: An AI-Driven Tool for Detecting Greenwashing in Sustainability Claims'
     year: '2026'
   hyunm5YAAAAJ:9yKSN-GCB0IC:
-    citations: 3
+    citations: 6
     title: "EmeraldMind: A Knowledge Graph\u2013Augmented Framework for Greenwashing Detection"
     year: '2026'
   hyunm5YAAAAJ:UeHWp8X0CEIC:
@@ -14,6 +14,6 @@ papers:
     title: "\u03A7\u03B1\u03C1\u03B1\u03BA\u03C4\u03B7\u03C1\u03B9\u03C3\u03BC\u03CC\u03C2 \u03C4\u03C9\u03BD \u03BC\u03B5\u03C4\u03C1\u03BF\u03C0\u03C1\u03BF\u03B3\u03C1\u03B1\u03BC\u03BC\u03AC\u03C4\u03C9\u03BD Koala"
     year: '2026'
   hyunm5YAAAAJ:u-x6o8ySG0sC:
-    citations: 9
-    title: 'The Koala benchmarks for the shell: characterization and implications'
+    citations: 11
+    title: 'The koala benchmarks for the shell: Characterization and implications'
     year: '2025'
